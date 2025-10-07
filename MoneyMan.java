@@ -1,6 +1,3 @@
-// need better find - AND search terms or add start date
-// need Find Next in Accounts
-
 // MoneyMan v1.0.0 by R.A.Waddilove (github.com/raddilove)
 // It was created for myself as a way to learn Java and Swing. If you find it
 // useful or have suggestions, improvements, features, or bugs, let me know.
@@ -1541,4 +1538,5 @@ public class MoneyMan {
             FormMain moneyman = new FormMain(accounts);
         });
     }
+
 }
