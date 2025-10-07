@@ -10,15 +10,15 @@ MoneyMan is a Java desktop app for Mac, PC, Linux that enables you to manage you
 * See your spending each month or in each category.
 * Sync across computers.
 
-![RAW MoneyMan Java app](https://github.com/rwaddilove/moneyman/moneyman.jpg)
+![RAW MoneyMan Java app](https://github.com/rwaddilove/moneyman/blob/main/moneyman.jpg)
 
-![RAW MoneyMan Java app](https://github.com/rwaddilove/moneyman/account-menu.jpg)
+![RAW MoneyMan Java app](https://github.com/rwaddilove/moneyman/blob/main/account-menu.jpg)
 
-![RAW MoneyMan Java app](https://github.com/rwaddilove/moneyman/reports-menu.jpg)
+![RAW MoneyMan Java app](https://github.com/rwaddilove/moneyman/blob/main/reports-menu.jpg)
 
-![RAW MoneyMan Java app](https://github.com/rwaddilove/moneyman/taction-menu.jpg)
+![RAW MoneyMan Java app](https://github.com/rwaddilove/moneyman/blob/main/taction-menu.jpg)
 
-![RAW MoneyMan Java app](https://github.com/rwaddilove/moneyman/add-taction.jpg)
+![RAW MoneyMan Java app](https://github.com/rwaddilove/moneyman/blob/main/add-taction.jpg)
 
 ### Tips for using Money Manager
 
