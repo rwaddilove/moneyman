@@ -1,6 +1,6 @@
 #  MoneyMan
 
-MoneyMan is a Java desktop app for Mac, PC, Linux that enables you to manage your money.
+MoneyMan is a Java desktop app for Mac, PC, Linux for managing your money. My hobby is learning different programming languages and MoneyMan is an exercise I do in each one (other versions in other languages are here). This is the best version I have created so far!
 
 * Create multiple accounts like bank, savings, credit card.
 * Record transactions and assign them to categories.
